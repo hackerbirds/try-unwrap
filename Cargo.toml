@@ -1,0 +1,11 @@
+[package]
+name = "try-unwrap"
+version = "0.1.0"
+edition = "2021"
+description = "A revolutionary new crate that allows you to unwrap() without making your stupid software panic."
+license = "MIT"
+readme = "README.md"
+homepage = "https://hackerbirds.neocities.org/try-unwrap"
+repository = "https://github.com/hackerbirds/try-unwrap/"
+
+[dependencies]
